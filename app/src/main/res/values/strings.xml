@@ -10,7 +10,9 @@
 
     <string name="menu_map">Map</string>
     <string name="menu_remote">Remote Config</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_nearby">Nearby</string>
+    <string name="menu_iap">IAP</string>
+    <string name="menu_safety">Safety Detect</string>
 
     <string name="owner">Course Demo</string>
     <string name="copyright_info">Huawei</string>
@@ -18,4 +20,12 @@
     <string name="channel_description">Channel for displaying notifications</string>
     <string name="channel_id">Push</string>
     <string name="ok">OK</string>
+
+    <string name="my_name">My name:</string>
+    <string name="friends_name">Friend\'s name:</string>
+    <string name="begin">Begin to chat!</string>
+    <string name="send">Send</string>
+    <string name="input_message_here">Your Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
